@@ -1,5 +1,5 @@
 Single-Assay Characterization of Ternary Complex Assembly and Activity in Targeted Protein Degradation.
-**===================
+===================
 Copyright (c) 2025 Dmitri Ivanov
 ===================
 Targeted protein degradation (TPD) is a rapidly advancing therapeutic strategy that selectively eliminates disease-associated proteins by co-opting the cell’s protein degradation machinery. Covalent modification of proteins with ubiquitin is a critical event in TPD, yet the analytical tools for quantifying the ubiquitylation kinetics have been limited.
