@@ -14,5 +14,3 @@ k_E3, F_max and k_inact are fitted per sample; k_0 and F_min are fitted globally
 
 Equilibrium model fitting (protac_fit_rates.py and glue_fit_rates.py).
 Catalytic rates are fit to mass-action equilibrium models of ternary complex formation mediated by either heterobifunctional degraders (PROTACs) (protac_fit_rates.py) or molecular glues (glue_fit_rates.py). The algebraic systems enforcing mass conservation and binding equilibria are solved numerically with scipy.optimize.fsolve to obtain concentrations of the catalytically active species. These numeric predictions populate a model rate matrix that is compared to the experimental catalytic rate matrix within least_squares.
-
-<img width="468" height="632" alt="image" src="https://github.com/user-attachments/assets/20430ebd-8c87-436b-9bd2-f8a802453d99" />
